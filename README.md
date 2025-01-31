@@ -16,7 +16,7 @@ HOW TO USE:
 5. The contents of the exported file should look something like this, the exporter gets the name from the object name + "_Model"and there might be issues if it contains numbers or dots etc.
 ![bild](https://github.com/user-attachments/assets/4700550b-0d5d-42b8-b39c-9adeddb518f7)
 
-6. Include your hpp like you would any other header. Now you can use the model with sceGumDrawArray.
+6. Include your hpp like you would any other header. Now you can use the model with sceGumDrawArray/glDrawElements.
 ![bild](https://github.com/user-attachments/assets/69395957-30ed-43f1-a697-11a36a0b69b8)
 
 TIPS:
